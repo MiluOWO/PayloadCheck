@@ -3,6 +3,7 @@
 
 使用范围：
 
-- 内网（IP固定）
+- 内网（登录IP与CTFD的IP一致）
 
 - 限定GET方式访问payload
+
