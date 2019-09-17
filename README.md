@@ -7,3 +7,6 @@
 
 - 限定GET方式访问payload
 
+main.py - 用于导出使用payload打出flag的IP。
+
+ip2num.py - 用于导出ip与账号的对应关系。
