@@ -9,4 +9,4 @@
 
 main.py - 用于导出使用payload打出flag的IP。
 
-ip2num.py - 用于导出ip与账号的对应关系。（适用于CTFD平台）
+ip2num.py - 用于导出ip与账号的对应关系，用户数量需要根据情况自己修改。（适用于CTFD平台）
